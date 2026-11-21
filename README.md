@@ -1,8 +1,10 @@
 # News Image — Friday, 20 November 2026
 
-[![GitHub](https://img.shields.io/badge/github-pavelryandrop%2Fnews--image--20261120-blue)](https://github.com/pavelryandrop/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/pavelryandrop/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/pavelryandrop/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-One image that sums up the world news of Friday, 20 November 2026 — an entry for the make.fun competition "Sum up 20 November's world news in one image" ($250).
+One image that sums up the world news of Friday, 20 November 2026 — an entry for the [make.fun](https://make.fun/bounty/news-image-20261120) competition "Sum up 20 November's world news in one image" ($250).
 
 ![The world in one day — Friday, 20 November 2026](entry.png)
 
